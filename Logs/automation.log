@@ -70,3 +70,72 @@
 07:07:28.882 [main] INFO  api.test.UserTests - ********* User is updated ************
 07:07:30.183 [main] INFO  api.test.UserTests - ********* Deleting  User ************
 07:07:31.516 [main] INFO  api.test.UserTests - ********* User Deleted ************
+15:21:10.758 [main] INFO  api.test.UserTests - ********* Creating User ************
+15:21:21.649 [main] INFO  api.test.UserTests - ********* User is created ************
+15:21:21.708 [main] INFO  api.test.UserTests - ********* Reading  User  info************
+15:21:23.144 [main] INFO  api.test.UserTests - ********* User info is displayed  ************
+15:21:23.157 [main] INFO  api.test.UserTests - ********* Updating User  ************
+15:21:24.470 [main] INFO  api.test.UserTests - ********* User is updated ************
+15:21:25.789 [main] INFO  api.test.UserTests - ********* Deleting  User ************
+15:21:27.057 [main] INFO  api.test.UserTests - ********* User Deleted ************
+15:31:06.274 [main] INFO  api.test.UserTests - ********* Creating User ************
+15:31:13.664 [main] INFO  api.test.UserTests - ********* User is created ************
+15:31:13.713 [main] INFO  api.test.UserTests - ********* Reading  User  info************
+15:31:15.089 [main] INFO  api.test.UserTests - ********* User info is displayed  ************
+15:31:15.098 [main] INFO  api.test.UserTests - ********* Updating User  ************
+15:31:16.495 [main] INFO  api.test.UserTests - ********* User is updated ************
+15:31:17.835 [main] INFO  api.test.UserTests - ********* Deleting  User ************
+15:31:19.160 [main] INFO  api.test.UserTests - ********* User Deleted ************
+21:54:10.260 [main] INFO  api.test.StoreTests - *********deleting the order**********
+21:54:21.963 [main] INFO  api.test.StoreTests - *********Getting the order details**********
+21:54:23.184 [main] INFO  api.test.StoreTests - **********Placing the order*********
+21:59:07.083 [main] INFO  api.test.StoreTests - *********deleting the order**********
+21:59:14.955 [main] INFO  api.test.StoreTests - *********Getting the order details**********
+21:59:16.303 [main] INFO  api.test.StoreTests - **********Placing the order*********
+22:02:06.367 [main] INFO  api.test.StoreTests - **********Placing the order*********
+22:04:28.401 [main] INFO  api.test.StoreTests - **********Placing the order*********
+22:33:53.959 [main] INFO  api.test.StoreTests - **********Placing the order*********
+22:36:45.821 [main] INFO  api.test.StoreTests - **********Placing the order*********
+09:02:31.614 [main] INFO  api.test.StoreTests - **********Placing the order*********
+09:02:43.106 [main] INFO  api.test.StoreTests - **********order is placed*********
+09:03:28.176 [main] INFO  api.test.StoreTests - **********Placing the order*********
+09:03:33.880 [main] INFO  api.test.StoreTests - **********order is placed*********
+09:04:55.253 [main] INFO  api.test.StoreTests - *********Getting the order details**********
+09:05:01.285 [main] INFO  api.test.StoreTests - **********Placing the order*********
+09:05:03.214 [main] INFO  api.test.StoreTests - **********order is placed*********
+09:07:34.385 [main] INFO  api.test.StoreTests - *********Getting the order details**********
+09:07:48.509 [main] INFO  api.test.StoreTests - **********Placing the order*********
+09:07:51.064 [main] INFO  api.test.StoreTests - **********order is placed*********
+09:11:44.591 [main] INFO  api.test.StoreTests - *********Getting the order details**********
+09:11:49.914 [main] INFO  api.test.StoreTests - *********order details fetched**********
+09:11:49.942 [main] INFO  api.test.StoreTests - **********Placing the order*********
+09:11:51.874 [main] INFO  api.test.StoreTests - **********order is placed*********
+09:12:49.265 [main] INFO  api.test.StoreTests - *********deleting the order**********
+09:12:54.031 [main] INFO  api.test.StoreTests - *********order deleted**********
+09:12:54.047 [main] INFO  api.test.StoreTests - *********Getting the order details**********
+09:12:55.269 [main] INFO  api.test.StoreTests - **********Placing the order*********
+09:12:56.887 [main] INFO  api.test.StoreTests - **********order is placed*********
+09:13:55.019 [main] INFO  api.test.UserTests - ********* Creating User ************
+09:14:00.952 [main] INFO  api.test.UserTests - ********* User is created ************
+09:14:00.964 [main] INFO  api.test.UserTests - ********* Reading  User  info************
+09:14:02.474 [main] INFO  api.test.UserTests - ********* User info is displayed  ************
+09:14:02.491 [main] INFO  api.test.UserTests - ********* Updating User  ************
+09:14:03.842 [main] INFO  api.test.UserTests - ********* User is updated ************
+09:14:05.217 [main] INFO  api.test.UserTests - ********* Deleting  User ************
+09:14:06.563 [main] INFO  api.test.UserTests - ********* User Deleted ************
+09:14:33.065 [main] INFO  api.test.StoreTests - *********deleting the order**********
+09:14:38.041 [main] INFO  api.test.StoreTests - *********order deleted**********
+09:14:38.053 [main] INFO  api.test.StoreTests - *********Getting the order details**********
+09:14:39.533 [main] INFO  api.test.StoreTests - **********Placing the order*********
+09:14:41.331 [main] INFO  api.test.StoreTests - **********order is placed*********
+09:17:34.414 [main] INFO  api.test.StoreTests - *********deleting the order**********
+09:17:39.363 [main] INFO  api.test.StoreTests - *********order deleted**********
+09:17:39.378 [main] INFO  api.test.StoreTests - *********Getting the order details**********
+09:17:40.779 [main] INFO  api.test.StoreTests - **********Placing the order*********
+09:17:42.721 [main] INFO  api.test.StoreTests - **********order is placed*********
+09:18:50.193 [main] INFO  api.test.StoreTests - **********Placing the order*********
+09:18:55.595 [main] INFO  api.test.StoreTests - **********order is placed*********
+09:18:55.610 [main] INFO  api.test.StoreTests - *********Getting the order details**********
+09:18:56.949 [main] INFO  api.test.StoreTests - *********order details fetched**********
+09:18:56.964 [main] INFO  api.test.StoreTests - *********deleting the order**********
+09:18:58.215 [main] INFO  api.test.StoreTests - *********order deleted**********
